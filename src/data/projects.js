@@ -27,5 +27,279 @@ export const projects = [
       "/assets/Skyfest selected/skyfestdrone.jpeg",
       "/assets/Skyfest selected/stage key visual.jpg"
     ],
-  },   // ← closes the Skyfest object
+  },
+  {
+  id: "year-of-the-tiger-jessi",
+  title: "Year of the Tiger: Jessi",
+  year: "2022",
+  category: "Events & Media",
+  description:
+    "A high-energy New Year celebration featuring Korean artist Jessi. The production included full stage design, lighting, laser effects, aerial FX, choreography support, media content direction, and concert-level technical management.",
+  images: [
+    "/assets/Tiger/Audience.jpeg",
+    "/assets/Tiger/c02Cannon.jpeg",
+    "/assets/Tiger/Catwalkcenter.jpeg",
+    "/assets/Tiger/Gdevith.jpeg",
+    "/assets/Tiger/Jessi_Selfie.jpeg",
+    "/assets/Tiger/Jessi_Selfie2.jpeg",
+    "/assets/Tiger/Jessi_stagediagonal.jpeg",
+    "/assets/Tiger/Jessidancer.jpeg",
+    "/assets/Tiger/Jesswdancercenter.jpeg",
+    "/assets/Tiger/Laser.jpeg",
+    "/assets/Tiger/PressCon.jpeg",
+    "/assets/Tiger/Stage_2_Jessi.jpeg",
+    "/assets/Tiger/Stage_Center.jpeg",
+    "/assets/Tiger/Stage_Diagonal.jpeg",
+    "/assets/Tiger/Stage_drone.jpeg",
+    "/assets/Tiger/Stage.jpeg",
+    "/assets/Tiger/StageDiagonal2.jpeg",
+    "/assets/Tiger/StageJessi.jpeg",
+    "/assets/Tiger/StageOpener.jpeg"
+  ]
+},
+   // ← closes the Skyfest object
+     {
+    id: "charlie-puth",
+    title: "Charlie Puth",
+    year: "—", // TODO: update with the correct year (e.g. "2018")
+    category: "Events & Media",
+    description:
+      "A large-scale concert with Charlie Puth featuring full stage design, lighting, live video direction, and show management for a high-energy audience experience.",
+    images: [
+      "/assets/Charlie Puth/Charlie_below.jpeg",
+      "/assets/Charlie Puth/Charlie_fromcrowd.jpeg",
+      "/assets/Charlie Puth/Charlie_fromcrowd2.jpeg",
+      "/assets/Charlie Puth/Charlie_sidestage.jpeg",
+      "/assets/Charlie Puth/Charlie_Sing.jpeg",
+      "/assets/Charlie Puth/Charlie_sing2.jpeg",
+      "/assets/Charlie Puth/Charlie_stage_diagonal.jpeg",
+      "/assets/Charlie Puth/Charlieandband.jpeg",
+      "/assets/Charlie Puth/CharlieHype.jpeg",
+      "/assets/Charlie Puth/CharlieKeytar.jpeg",
+      "/assets/Charlie Puth/Stage_center.jpeg",
+      "/assets/Charlie Puth/StageDay.jpeg",
+    ],
+  },
+{
+  id: "oca-41st-ga",
+  title: "41st Olympic Council of Asia General Assembly",
+  year: "", // fill in later
+  category: "Events & Media",
+  description:
+    "A large-scale international assembly featuring dignitaries and leaders from across Asia. Managed staging, technical production, lighting, protocol support, and media coordination for a high-profile diplomatic event.",
+  images: [
+    "/assets/OCA-41st-GA/Audience.jpeg",
+    "/assets/OCA-41st-GA/closeup.jpeg",
+    "/assets/OCA-41st-GA/handshake.jpeg",
+    "/assets/OCA-41st-GA/Saudi.jpeg",
+    "/assets/OCA-41st-GA/side.jpeg",
+    "/assets/OCA-41st-GA/Standing.jpeg",
+    "/assets/OCA-41st-GA/Standing1.jpeg",
+    "/assets/OCA-41st-GA/Wide.jpeg"
+  ]
+},
+{
+  id: "metfone-intelligent-connect",
+  title: "Metfone: Intelligent Connect 2019",
+  year: "2019",
+  category: "Events & Media",
+  description:
+    "A large-scale exhibition and keynote event for Metfone/Viettel, featuring a full interactive ‘Intelligent City’ installation. Responsibilities included art direction, 3D environmental design, technical layouts, booth structures, and on-site production management.",
+  images: [
+    "/assets/Metfone/Confeence_audience.jpeg",
+    "/assets/Metfone/GalaCheers.jpeg",
+    "/assets/Metfone/GoogleSlide.jpeg",
+    "/assets/Metfone/Greeting.jpeg",
+    "/assets/Metfone/Intcity_booth.jpeg",
+    "/assets/Metfone/Intcity_booth1.jpeg",
+    "/assets/Metfone/Intcity_Grocery.jpeg",
+    "/assets/Metfone/Intcity_Grocery2.jpeg",
+    "/assets/Metfone/Intcity_Path.jpeg",
+    "/assets/Metfone/Intcity_path2.jpeg",
+    "/assets/Metfone/Photo_BD.jpeg",
+    "/assets/Metfone/Photo_BD1.jpeg",
+    "/assets/Metfone/Plan_layout.png",
+    "/assets/Metfone/Plan_render1.png",
+    "/assets/Metfone/Plan_render2.png",
+    "/assets/Metfone/Plan_render3.png",
+    "/assets/Metfone/Registration.jpeg",
+    "/assets/Metfone/Vice_Director.jpeg",
+
+    // 3D folder renders
+    "/assets/Metfone/3D/layout.png",
+    "/assets/Metfone/3D/render1.png",
+    "/assets/Metfone/3D/render2.png",
+    "/assets/Metfone/3D/render3.png"
+  ]
+},
+{
+  id: "lost-connection-underworld",
+  title: "Lost Connection: Underworld",
+  year: "", // fill in later
+  category: "Events & Media",
+  description:
+    "An immersive underground rave staged in a parking garage, transforming the space into a 360° environment of lasers, LEDs, aerial performances, and heavy sound. Led creative direction, stage and lighting design, technical production, and artist curation to deliver a high-impact nightlife experience.",
+  video: "https://www.youtube.com/embed/d9il0NBt-AY",
+  images: [
+    "/assets/LC_UWselected/Aerial1.jpg",
+    "/assets/LC_UWselected/Aerial2.jpg",
+    "/assets/LC_UWselected/Aerial3.jpg",
+    "/assets/LC_UWselected/Aerial4.jpg",
+    "/assets/LC_UWselected/Aerial5.jpg",
+    "/assets/LC_UWselected/Aerial6.jpg",
+    "/assets/LC_UWselected/Aerialunder.jpg",
+    "/assets/LC_UWselected/Aerialunder2.jpg",
+    "/assets/LC_UWselected/Audience.jpg",
+    "/assets/LC_UWselected/Crowd.jpg",
+    "/assets/LC_UWselected/crowd2.jpg",
+    "/assets/LC_UWselected/crowd3.jpg",
+    "/assets/LC_UWselected/Daria1.jpg",
+    "/assets/LC_UWselected/Daria2.jpg",
+    "/assets/LC_UWselected/Daria3.jpg",
+    "/assets/LC_UWselected/Daria4.jpg",
+    "/assets/LC_UWselected/Daria5.jpg",
+    "/assets/LC_UWselected/Daria6.jpg",
+    "/assets/LC_UWselected/Daria7.jpg",
+    "/assets/LC_UWselected/Daria8.jpg",
+    "/assets/LC_UWselected/Daria9.jpg",
+    "/assets/LC_UWselected/Daria10.jpg",
+    "/assets/LC_UWselected/LED.jpg",
+    "/assets/LC_UWselected/LED2.jpg",
+    "/assets/LC_UWselected/LED3.jpg",
+    "/assets/LC_UWselected/LED4.jpg",
+    "/assets/LC_UWselected/Maily.jpg",
+    "/assets/LC_UWselected/MailyCrowd.jpg",
+    "/assets/LC_UWselected/MailyCrowd1.jpg",
+    "/assets/LC_UWselected/Mailycrowd2.jpg",
+    "/assets/LC_UWselected/Mailycrwod3.jpg",
+    "/assets/LC_UWselected/Mesmecrowd.jpg",
+    "/assets/LC_UWselected/Mesmecrowd1.jpg",
+    "/assets/LC_UWselected/Mesmelasers.jpg",
+    "/assets/LC_UWselected/Mesmelasers.jpg.jpg",
+    "/assets/LC_UWselected/Sivaneshc4rowd.jpg",
+    "/assets/LC_UWselected/Sivaneshcrowd.jpg",
+    "/assets/LC_UWselected/Sivaneshcrowd1.jpg",
+    "/assets/LC_UWselected/Sivaneshcrowd2.jpg",
+    "/assets/LC_UWselected/Sivaneshcrowd3.jpg",
+    "/assets/LC_UWselected/Top1.jpg",
+    "/assets/LC_UWselected/Toplaser.jpg",
+    "/assets/LC_UWselected/UNDERWORLD_146.jpg",
+    "/assets/LC_UWselected/UNDERWORLD_147.jpg",
+    "/assets/LC_UWselected/UNDERWORLD_150.jpg",
+    "/assets/LC_UWselected/UNDERWORLD_151.jpg",
+    "/assets/LC_UWselected/UNDERWORLD_156.jpg",
+    "/assets/LC_UWselected/UNDERWORLD_183.jpg",
+    "/assets/LC_UWselected/UNDERWORLD_186.jpg"
+  ]
+},
+{
+  id: "lost-connection-sky",
+  title: "Lost Connection: Sky",
+  year: "", // fill in later
+  category: "Events & Media",
+  description:
+    "The revival of Lost Connection after a six-year hiatus, staged on a rooftop overlooking the city skyline. Led creative direction, stage and lighting design, production management, artist booking, and visual identity for a signature open-air electronic music experience.",
+  video: "https://www.youtube.com/embed/y3m3e-si5SM",
+  images: [
+    "/assets/LC-SKY-SELECTED/Crowd.jpg",
+    "/assets/LC-SKY-SELECTED/Crowd1.jpg",
+    "/assets/LC-SKY-SELECTED/Laser.jpg",
+    "/assets/LC-SKY-SELECTED/LED.jpg",
+    "/assets/LC-SKY-SELECTED/LED1.jpg",
+    "/assets/LC-SKY-SELECTED/LEvi.jpg",
+    "/assets/LC-SKY-SELECTED/Levi1.jpg",
+    "/assets/LC-SKY-SELECTED/ME.jpg",
+    "/assets/LC-SKY-SELECTED/Svetlana.jpg",
+    "/assets/LC-SKY-SELECTED/Svetlana1.jpg",
+    "/assets/LC-SKY-SELECTED/TIM Laser.jpg",
+    "/assets/LC-SKY-SELECTED/Tim.jpg",
+    "/assets/LC-SKY-SELECTED/Tim1.jpg"
+  ]
+},
+{
+  id: "battle-of-the-bands-cambodia",
+  title: "Battle of the Bands Cambodia",
+  year: "2019–2020",
+  category: "Events & Media",
+  description:
+    "A multi-year national music competition bringing together youth bands from across Cambodia. Led show development, scripting, and talent casting (hosts, judges, performers), and managed staging, timelines, and backstage logistics while coordinating media and marketing campaigns to deliver a polished live-show experience.",
+  images: [
+    // 2019
+    "/assets/BOBselected/2019/BandHug.jpg",
+    "/assets/BOBselected/2019/Battambangers.jpg",
+    "/assets/BOBselected/2019/Crowd.jpg",
+    "/assets/BOBselected/2019/Crowd1.jpg",
+    "/assets/BOBselected/2019/HFC_FINAL_DAY PART (1 of 39).jpg",
+    "/assets/BOBselected/2019/HFC_FINAL_DAY PART (19 of 39).jpg",
+    "/assets/BOBselected/2019/HFC_FINAL_DAY PART (20 of 39).jpg",
+    "/assets/BOBselected/2019/KidsCrowd.jpg",
+    "/assets/BOBselected/2019/Rounette.jpg",
+    "/assets/BOBselected/2019/SingerLED.jpg",
+    "/assets/BOBselected/2019/Vanessa.jpg",
+    "/assets/BOBselected/2019/Vanessa1.jpg",
+
+    // 2020
+    "/assets/BOBselected/2020/Bandperform.JPEG",
+    "/assets/BOBselected/2020/Bandperform1.JPEG",
+    "/assets/BOBselected/2020/Bandwcamera.JPEG",
+    "/assets/BOBselected/2020/BuffaloHorn.JPEG",
+    "/assets/BOBselected/2020/Buffalohorn1.JPEG",
+    "/assets/BOBselected/2020/Celebrate.JPEG",
+    "/assets/BOBselected/2020/Celebrate1.JPEG",
+    "/assets/BOBselected/2020/Celebrate2.JPEG",
+    "/assets/BOBselected/2020/Celebrate3.JPEG",
+    "/assets/BOBselected/2020/Celebratefinal.JPEG",
+    "/assets/BOBselected/2020/Grouppic.JPEG",
+    "/assets/BOBselected/2020/Guitarduo.JPEG",
+    "/assets/BOBselected/2020/Hug.JPEG",
+    "/assets/BOBselected/2020/Hug1.JPEG",
+    "/assets/BOBselected/2020/Judgement.JPEG",
+    "/assets/BOBselected/2020/Judgement1.JPEG",
+    "/assets/BOBselected/2020/Judgement2.JPEG",
+    "/assets/BOBselected/2020/Judgement3.JPEG",
+    "/assets/BOBselected/2020/Judgement4.JPEG",
+    "/assets/BOBselected/2020/Judges.JPEG",
+    "/assets/BOBselected/2020/Judges1.JPEG",
+    "/assets/BOBselected/2020/Judges2.JPEG",
+    "/assets/BOBselected/2020/Judges3.JPEG",
+    "/assets/BOBselected/2020/Judges4.JPEG",
+    "/assets/BOBselected/2020/Keyboard.JPEG",
+    "/assets/BOBselected/2020/Set.JPEG",
+    "/assets/BOBselected/2020/Set1.JPEG",
+    "/assets/BOBselected/2020/Setwband.JPEG",
+    "/assets/BOBselected/2020/setwithband1.JPEG",
+    "/assets/BOBselected/2020/Setwlivefeed.JPEG",
+    "/assets/BOBselected/2020/Singer.JPEG",
+    "/assets/BOBselected/2020/Singer1.JPEG",
+    "/assets/BOBselected/2020/Singerwguitarist.JPEG",
+    "/assets/BOBselected/2020/Tambourine.JPEG",
+    "/assets/BOBselected/2020/traditional.JPEG"
+  ]
+},
+{
+  id: "tiger-live-sessions",
+  title: "Tiger Live Sessions",
+  year: "2020",
+  category: "Events & Media",
+  description:
+    "A major brand production for Tiger Beer (Heineken Group), transforming a raw warehouse into a full broadcast studio. Led creative direction, set design, episode scripting, and production management for a multi-episode music and talk show series featuring Cambodian artists. Oversaw stage layout, lighting, camera direction, and showflow, resulting in more than 3.3 million views across digital platforms.",
+  video: "", // add YouTube embed link here later if you have one
+  images: [
+    "/assets/TIGER_LIVE/MSV09845-scaled.jpg",
+    "/assets/TIGER_LIVE/MSV09905-scaled.jpg",
+    "/assets/TIGER_LIVE/MSV09912-1-scaled.jpg",
+    "/assets/TIGER_LIVE/MSV09991-scaled.jpg",
+    "/assets/TIGER_LIVE/photo_2024-09-12_11-45-31.jpg",
+    "/assets/TIGER_LIVE/photo_2024-09-12_11-45-34.jpg",
+    "/assets/TIGER_LIVE/photo_2024-09-12_11-45-38.jpg",
+    "/assets/TIGER_LIVE/photo_2024-09-12_11-45-42.jpg",
+    "/assets/TIGER_LIVE/photo_2024-09-12_11-45-47.jpg",
+    "/assets/TIGER_LIVE/photo_2024-09-12_11-45-51.jpg",
+    "/assets/TIGER_LIVE/photo_2024-09-12_11-45-54.jpg",
+    "/assets/TIGER_LIVE/photo_2024-09-12_11-46-07.jpg"
+  ]
+},
+
+
+
 ];      // ← closes the array and export

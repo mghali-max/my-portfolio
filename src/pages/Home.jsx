@@ -29,9 +29,11 @@ export default function Home() {
           </div>
         </div>
         <div className="hero-image">
-          <img src="/assets/hero-placeholder.jpg" alt="Aymen at work" />
+          <img src="assets\Aymen_Ghali_Headshot.jpg
+          " alt="Aymen at work" />
         </div>
       </section>
+
 
             {/* SELECTED WORK */}
       <section className="section">

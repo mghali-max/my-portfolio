@@ -54,6 +54,21 @@ export default function ProjectDetail() {
         <p className="project-text">{project.description}</p>
       </section>
 
+      {/* Optional project video (e.g. YouTube embed) */}
+      {project.video && (
+        <section className="section project-video">
+          <div className="video-wrapper">
+            <iframe
+              src={project.video}
+              title={project.title + " video"}
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+          </div>
+        </section>
+      )}
+
       {project.images?.length > 1 && (
         <section className="section project-gallery">
           <h2>Project Gallery</h2>
@@ -73,7 +88,10 @@ export default function ProjectDetail() {
 
       {lightboxIndex !== null && (
         <div className="lightbox-overlay" onClick={closeLightbox}>
-          <div className="lightbox-inner" onClick={(e) => e.stopPropagation()}>
+          <div
+            className="lightbox-inner"
+            onClick={(e) => e.stopPropagation()}
+          >
             <button className="lightbox-close" onClick={closeLightbox}>
               ×
             </button>

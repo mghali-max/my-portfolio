@@ -315,16 +315,21 @@ img {
   margin-bottom: 1rem;
 }
 
+/* CONSISTENT BANNER-STYLE HERO IMAGE */
 .project-hero-image {
   border-radius: 1.5rem;
   overflow: hidden;
   margin-bottom: 1.3rem;
+
+  /* Enforce wide “Skyfest-style” banner dimensions */
+  height: clamp(260px, 48vh, 420px);
 }
 
 .project-hero-image img {
   width: 100%;
-  height: auto;
-  object-fit: cover;
+  height: 100%;
+  object-fit: cover;  /* ensures perfect cropping */
+  display: block;
 }
 
 .project-title {
@@ -368,6 +373,30 @@ img {
 .project-video h2 {
   margin-bottom: 1rem;
 }
+.project-video {
+  display: flex;
+  justify-content: flex-start; /* align left */
+  margin: 2rem 0;
+}
+
+.project-video .video-wrapper {
+  width: 100%;
+  max-width: 540px;      /* width already good */
+  position: relative;
+  padding-top: 30%;      
+}
+
+
+.project-video iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+
+
+
 
 .gallery-grid {
   display: grid;
