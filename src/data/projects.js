@@ -1,33 +1,36 @@
 export const projects = [
+  
+    
   {
-    id: "skyfest",
-    title: "Skyfest",
-    year: "2022", // change if needed
-    category: "Events & Media",
-    description:
-      "Skyfest was a large-scale kite and music festival featuring international kite teams, live music, custom stage design, and immersive audience experiences.",
-    images: [
-      "/assets/Skyfest selected/360bar drone.jpeg",
-      "/assets/Skyfest selected/couple.jpeg",
-      "/assets/Skyfest selected/drone2.jpeg",
-      "/assets/Skyfest selected/DSCF7226.jpg",
-      "/assets/Skyfest selected/FireDancer.jpeg",
-      "/assets/Skyfest selected/IMG03667_.jpg",
-      "/assets/Skyfest selected/IMG03952_.jpg",
-      "/assets/Skyfest selected/IMG03965_.jpg",
-      "/assets/Skyfest selected/IMG03966_.jpg",
-      "/assets/Skyfest selected/IMG03985_.jpg",
-      "/assets/Skyfest selected/IMG03994_.jpg",
-      "/assets/Skyfest selected/IMG04058_.jpg",
-      "/assets/Skyfest selected/IMG04408_.jpg",
-      "/assets/Skyfest selected/IMG04522_.jpg",
-      "/assets/Skyfest selected/IMG04601_.jpg",
-      "/assets/Skyfest selected/KhmerKite.jpeg",
-      "/assets/Skyfest selected/sign.jpeg",
-      "/assets/Skyfest selected/skyfestdrone.jpeg",
-      "/assets/Skyfest selected/stage key visual.jpg"
-    ],
-  },
+  id: "skyfest",
+  title: "Skyfest",
+  year: "2022",
+  category: "Events & Media",
+  description:
+    "SkyFest was a large-scale cultural celebration combining international kite performances with a beachside music festival, co-organized by KilatEvents and Canopy Sands Development. The event featured international kite teams from 9 countries, high-energy music acts, large-scale F&B operations, and interactive zones. Taking place at a major development site on the Cambodian coast, the event was executed within a compressed 30-day production timeline, requiring high-level coordination across creative, technical, and sponsorship teams.",
+  images: [
+    "/assets/Skyfest selected/360bar drone.jpeg",
+    "/assets/Skyfest selected/couple.jpeg",
+    "/assets/Skyfest selected/drone2.jpeg",
+    "/assets/Skyfest selected/DSCF7226.jpg",
+    "/assets/Skyfest selected/FireDancer.jpeg",
+    "/assets/Skyfest selected/IMG03667_.jpg",
+    "/assets/Skyfest selected/IMG03952_.jpg",
+    "/assets/Skyfest selected/IMG03965_.jpg",
+    "/assets/Skyfest selected/IMG03966_.jpg",
+    "/assets/Skyfest selected/IMG03985_.jpg",
+    "/assets/Skyfest selected/IMG03994_.jpg",
+    "/assets/Skyfest selected/IMG04058_.jpg",
+    "/assets/Skyfest selected/IMG04408_.jpg",
+    "/assets/Skyfest selected/IMG04522_.jpg",
+    "/assets/Skyfest selected/IMG04601_.jpg",
+    "/assets/Skyfest selected/KhmerKite.jpeg",
+    "/assets/Skyfest selected/sign.jpeg",
+    "/assets/Skyfest selected/skyfestdrone.jpeg",
+    "/assets/Skyfest selected/stage key visual.jpg"
+  ]
+},
+
   {
   id: "year-of-the-tiger-jessi",
   title: "Year of the Tiger: Jessi",

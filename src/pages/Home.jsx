@@ -16,8 +16,8 @@ export default function Home() {
             Event Producer · Creative Director · Musician · Designer · UX/UI
           </p>
           <p className="hero-body">
-            Creating meaningful experiences at the intersection of music, design,
-            and technology.
+            Creative lead and event producer turned tech innovator with six years of experience crafting immersive experiences across music, brands, and culture. Now expanding into UX/UI to design human-centered digital experiences that merge creativity, strategy, and technology.
+
           </p>
           <div className="hero-actions">
             <Link className="btn-primary" to="/work">

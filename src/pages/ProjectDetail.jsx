@@ -50,9 +50,10 @@ export default function ProjectDetail() {
         <h1 className="project-title">{project.title}</h1>
       </section>
 
-      <section className="section project-body">
-        <p className="project-text">{project.description}</p>
-      </section>
+   <section className="section project-body">
+<p className="project-text">{project.description}</p>
+
+</section>
 
       {/* Optional project video (e.g. YouTube embed) */}
       {project.video && (
