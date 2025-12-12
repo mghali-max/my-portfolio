@@ -3,7 +3,7 @@ export default function About() {
     <section className="section about-page">
       <div className="about-layout">
         <div className="about-image">
-          <img src="/assets/about-portrait.jpg" alt="Aymen Ghali" />
+          <img src="public\assets\image.jpg" alt="Aymen Ghali" />
         </div>
         <div className="about-text">
           <h1>About</h1>
@@ -12,9 +12,13 @@ export default function About() {
             of music, design, and technology.
           </p>
           <p>
-            My journey began in music production and evolved into event
-            production, brand identity, and digital experiences that feel both
-            intuitive and emotionally resonant.
+           Blending strategy with storytelling, I design and deliver live experiences that leave 
+lasting impressions. From large-scale branded activations to culturally-rooted 
+music events, I lead cross-functional teams from concept to execution —aligning 
+creative vision with technical precision.
+This portfolio showcases selected works across brand, culture, and entertainment 
+—each project shaped by creativity, collaboration, and a commitment to excellence 
+in production
           </p>
 
           <h2>Capabilities</h2>

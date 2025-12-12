@@ -7,8 +7,9 @@ export const projects = [
   year: "2022",
   category: "Events & Media",
   description:
-    "SkyFest was a large-scale cultural celebration combining international kite performances with a beachside music festival, co-organized by KilatEvents and Canopy Sands Development. The event featured international kite teams from 9 countries, high-energy music acts, large-scale F&B operations, and interactive zones. Taking place at a major development site on the Cambodian coast, the event was executed within a compressed 30-day production timeline, requiring high-level coordination across creative, technical, and sponsorship teams.",
-  images: [
+    "SkyFest was a large-scale cultural celebration combining international kite performances with a beachside music festival, co-organized by KilatEvents and Canopy Sands Development. The event featured international kite teams from 9 countries, high-energy music acts, large-scale F&B operations, and interactive zones.",
+  video: "https://www.youtube.com/embed/cX9hLVn7aqE?si=j4-KuuaeFaoUEbk0",
+    images: [
     "/assets/Skyfest selected/360bar drone.jpeg",
     "/assets/Skyfest selected/couple.jpeg",
     "/assets/Skyfest selected/drone2.jpeg",

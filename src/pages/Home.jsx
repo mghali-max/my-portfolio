@@ -35,20 +35,7 @@ export default function Home() {
       </section>
 
 
-            {/* SELECTED WORK */}
-      <section className="section">
-        <div className="section-header">
-          <h2>Selected Work</h2>
-          <Link to="/work" className="section-link">
-            View All →
-          </Link>
-        </div>
-        <div className="work-grid home-work-grid">
-          {featured.map((project) => (
-            <ProjectCard key={project.id} project={project} />
-          ))}
-        </div>
-      </section>
+     
 
 
       {/* CONTACT CTA */}
